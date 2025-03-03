@@ -1,6 +1,6 @@
 ### RAG-Techniques
 Retrieval Augmented Generation (RAG) and RAG-like Search Techniques: A Comprehensive Overview
-Retrieval-augmented generation (RAG) is revolutionizing how large language models (LLMs) interact with information, combining the power of LLMs with the ability to access and retrieve real-time data from external sources. This synergy allows LLMs to generate more accurate, relevant, and comprehensive responses, especially for knowledge-intensive tasks. This article offers a detailed exploration of various RAG and RAG-like search techniques, fulfilling your request to present them in a comprehensive table format.
+Retrieval-augmented generation (RAG) is revolutionizing how large language models (LLMs) interact with information, combining the power of LLMs with the ability to access and retrieve real-time data from external sources. This synergy allows LLMs to generate more accurate, relevant, and comprehensive responses, especially for knowledge-intensive tasks. This article offers a detailed exploration of various RAG and RAG-like search techniques,  present them in a comprehensive table format.
 
 # Understanding the Core Concepts of RAG
 Before delving into the specific techniques, let's establish a foundational understanding of the core components of a RAG system:
