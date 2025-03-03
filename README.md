@@ -7,9 +7,12 @@ Before delving into the specific techniques, let's establish a foundational unde
 
 # Knowledge Base: 
 This is the source of information that the RAG system will access. It can be a structured database, a collection of documents, or any other repository of knowledge.
+
 Retrieval System: This component is responsible for retrieving relevant information from the knowledge base based on a user's query. It often involves techniques like semantic search or keyword-based search.
+
 Generative Model: This is typically an LLM that uses the retrieved information to generate a response.
-Techniques for Enhancing RAG Systems
+
+## Techniques for Enhancing RAG Systems
 RAG systems can be enhanced through various techniques applied at different stages of the retrieval and generation process. These techniques aim to improve the accuracy, efficiency, and relevance of the system's responses.
 
 # Pre-Retrieval Techniques
